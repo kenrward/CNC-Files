@@ -1,0 +1,27 @@
+<openscam>
+  <!-- Note, all values are in mm regardless of 'units' option. -->
+  <!-- NC Files -->
+  <nc-files>
+    Plate_printouts_side-table-not-z0.cnc
+  </nc-files>
+
+  <!-- Project -->
+  <units v='INCH'/>
+
+  <!-- Renderer -->
+  <resolution v='1.337154'/>
+  <resolution-mode v='MEDIUM'/>
+
+  <!-- Workpiece -->
+  <automatic-workpiece v='true'/>
+  <workpiece-margin v='0'/>
+  <workpiece-max v='(305.8,305.8,0)'/>
+  <workpiece-min v='(-1,-1,-6.35)'/>
+
+  <tool_table>
+    <tool length='10' number='1' radius='1' shape='CYLINDRICAL' units='MM'/>
+    <tool length='1.5' number='2' radius='0.0625' shape='CYLINDRICAL' units='INCH'>
+      1/8 inch 
+    </tool>
+  </tool_table>
+</openscam>
