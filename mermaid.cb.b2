@@ -166,6 +166,15 @@
             <p>64.59338,53.081754</p>
           </fit>
         </spline>
+        <pline id="2" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>64.59338,53.081754,0</p>
+            <p>65.692147,51.899121,0</p>
+            <p>66.544204,53.6128,0</p>
+          </pts>
+        </pline>
         <spline id="3" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -276,6 +285,15 @@
             <p>82.068845,96.626509</p>
           </fit>
         </spline>
+        <pline id="4" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>82.068845,96.626509,0</p>
+            <p>83.711745,99.009286,0</p>
+            <p>82.609092,103.005245,0</p>
+          </pts>
+        </pline>
         <spline id="5" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -614,6 +632,15 @@
             <p>92.752627,177.749255</p>
           </fit>
         </spline>
+        <pline id="6" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>92.752627,177.749255,0</p>
+            <p>94.379486,177.749255,0</p>
+            <p>92.42854,176.472826,0</p>
+          </pts>
+        </pline>
         <spline id="7" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -700,6 +727,15 @@
             <p>84.383824,194.240659</p>
           </fit>
         </spline>
+        <pline id="8" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>84.383824,194.240659,0</p>
+            <p>85.121696,197.603453,0</p>
+            <p>83.125191,193.408905,0</p>
+          </pts>
+        </pline>
         <spline id="9" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -1410,6 +1446,17 @@
             <p>179.048119,160.971059</p>
           </fit>
         </spline>
+        <pline id="10" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>179.048119,160.971059,0</p>
+            <p>181.035621,160.971059,0</p>
+            <p>179.718581,162.009877,0</p>
+            <p>178.401543,163.048692,0</p>
+            <p>181.233919,165.072013,0</p>
+          </pts>
+        </pline>
         <spline id="11" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -1484,6 +1531,15 @@
             <p>183.660141,164.756489</p>
           </fit>
         </spline>
+        <pline id="12" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>183.660141,164.756489,0</p>
+            <p>181.195486,163.666375,0</p>
+            <p>183.774148,162.724074,0</p>
+          </pts>
+        </pline>
         <spline id="13" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -1534,6 +1590,15 @@
             <p>180.737089,159.852514</p>
           </fit>
         </spline>
+        <pline id="14" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>180.737089,159.852514,0</p>
+            <p>174.739938,159.852514,0</p>
+            <p>170.503585,162.544372,0</p>
+          </pts>
+        </pline>
         <spline id="15" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -1670,6 +1735,15 @@
             <p>170.362623,75.122624</p>
           </fit>
         </spline>
+        <pline id="17" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>134.073654,198.652103,0</p>
+            <p>131.400846,201.937844,0</p>
+            <p>130.067279,200.329923,0</p>
+          </pts>
+        </pline>
         <spline id="18" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -1732,6 +1806,15 @@
             <p>100.845693,31.158715</p>
           </fit>
         </spline>
+        <pline id="19" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>100.845693,31.158715,0</p>
+            <p>97.433582,32.259096,0</p>
+            <p>94.211947,29.362475,0</p>
+          </pts>
+        </pline>
         <spline id="20" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -2276,6 +2359,16 @@
             <p>92.200092,35.201336</p>
           </fit>
         </spline>
+        <pline id="29" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>92.200092,35.201336,0</p>
+            <p>93.922582,35.193237,0</p>
+            <p>92.495963,36.142629,0</p>
+            <p>92.495963,36.142649,0</p>
+          </pts>
+        </pline>
         <spline id="30" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -2443,6 +2536,15 @@
             <p>85.111277,74.842987</p>
           </fit>
         </spline>
+        <pline id="33" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>85.111277,74.842987,0</p>
+            <p>83.963919,76.241169,0</p>
+            <p>83.275449,74.56335,0</p>
+          </pts>
+        </pline>
         <spline id="34" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -2586,6 +2688,15 @@
             <p>85.72601,93.559298</p>
           </fit>
         </spline>
+        <pline id="37" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>85.72601,93.559298,0</p>
+            <p>83.991495,96.273771,0</p>
+            <p>82.854845,94.087297,0</p>
+          </pts>
+        </pline>
         <spline id="38" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -3678,6 +3789,15 @@
             <p>80.233576,212.790322</p>
           </fit>
         </spline>
+        <pline id="47" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>80.233576,212.790322,0</p>
+            <p>81.154425,208.961895,0</p>
+            <p>82.227694,211.951413,0</p>
+          </pts>
+        </pline>
         <spline id="48" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -4707,6 +4827,15 @@
             <p>104.78017,223.484684</p>
           </fit>
         </spline>
+        <pline id="59" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>104.78017,223.484684,0</p>
+            <p>105.980024,222.540933,0</p>
+            <p>104.708136,222.516041,0</p>
+          </pts>
+        </pline>
         <spline id="60" deg="3" flags="0" ktol="0" cptol="0" ftol="0">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
@@ -5367,127 +5496,6 @@
             <p>98.804761,258.287843,0</p>
             <p>99.503571,259.559725,0</p>
             <p>100.611333,257.855512,0</p>
-          </pts>
-        </pline>
-        <pline id="77">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>104.78017,223.484684,0</p>
-            <p>105.980024,222.540933,0</p>
-            <p>104.708136,222.516041,0</p>
-          </pts>
-        </pline>
-        <pline id="78">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>80.233576,212.790322,0</p>
-            <p>81.154425,208.961895,0</p>
-            <p>82.227694,211.951413,0</p>
-          </pts>
-        </pline>
-        <pline id="79">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>84.383824,194.240659,0</p>
-            <p>83.125191,193.408905,0</p>
-          </pts>
-        </pline>
-        <pline id="80">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>92.42854,176.472826,0</p>
-            <p>94.379486,177.749255,0</p>
-            <p>92.752627,177.749255,0</p>
-          </pts>
-        </pline>
-        <pline id="81">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>82.609092,103.005245,0</p>
-            <p>83.711745,99.009286,0</p>
-            <p>82.068845,96.626509,0</p>
-          </pts>
-        </pline>
-        <pline id="82">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>85.72601,93.559298,0</p>
-            <p>83.991495,96.273771,0</p>
-            <p>82.854845,94.087297,0</p>
-          </pts>
-        </pline>
-        <pline id="83">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>85.111277,74.842987,0</p>
-            <p>83.963919,76.241169,0</p>
-            <p>83.275449,74.56335,0</p>
-          </pts>
-        </pline>
-        <pline id="84">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>64.59338,53.081754,0</p>
-            <p>65.692147,51.899121,0</p>
-            <p>66.544204,53.6128,0</p>
-          </pts>
-        </pline>
-        <pline id="85">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>92.200092,35.201336,0</p>
-            <p>93.922582,35.193237,0</p>
-            <p>92.495963,36.142649,0</p>
-          </pts>
-        </pline>
-        <pline id="87">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>100.845693,31.158715,0</p>
-            <p>97.433582,32.259096,0</p>
-            <p>94.211947,29.362475,0</p>
-          </pts>
-        </pline>
-        <pline id="88">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>130.067279,200.329923,0</p>
-            <p>131.400846,201.937844,0</p>
-            <p>134.073654,198.652103,0</p>
-          </pts>
-        </pline>
-        <arc id="89" p="178.090205467157,170.588020324705,0" r="11.056992741437973" s="226.67484697947174" w="57.175426861023709">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-        </arc>
-        <pline id="90">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>183.774148,162.724074,0</p>
-            <p>181.195486,163.666375,0</p>
-            <p>183.660141,164.756489,0</p>
-          </pts>
-        </pline>
-        <pline id="94">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>181.233919,165.072013,0</p>
-            <p>178.401543,163.048692,0</p>
-            <p>181.035621,160.971059,0</p>
-            <p>179.048119,160.971059,0</p>
           </pts>
         </pline>
       </objects>

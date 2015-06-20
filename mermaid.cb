@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="mermaid">
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="mermaid" units="Inches">
   <layers>
     <layer name="0" color="127,255,0">
       <ModificationCount>0</ModificationCount>
@@ -5500,7 +5500,112 @@
       <Color>255,165,0</Color>
     </Stock>
     <ToolProfile>Unspecified</ToolProfile>
+    <MachiningOrigin>0,0</MachiningOrigin>
   </MachiningOptions>
-  <parts />
+  <parts>
+    <part Name="Mermaid">
+      <machineops>
+        <engrave>
+          <WorkPlane state="Default">XY</WorkPlane>
+          <OptimisationMode state="Default">Experimental</OptimisationMode>
+          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
+          <ToolDiameter state="Default">0</ToolDiameter>
+          <ToolNumber state="Default">0</ToolNumber>
+          <ToolProfile state="Default">Unspecified</ToolProfile>
+          <PlungeFeedrate state="Default">10</PlungeFeedrate>
+          <CutFeedrate state="Default">30</CutFeedrate>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <StartPoint state="Default" />
+          <CustomMOPHeader state="Default" />
+          <CustomMOPFooter state="Default" />
+          <Name>Engrave1</Name>
+          <StockSurface state="Default">0.5</StockSurface>
+          <RoughingClearance state="Default">0</RoughingClearance>
+          <ClearancePlane state="Default">0.125</ClearancePlane>
+          <SpindleDirection state="Default">CW</SpindleDirection>
+          <SpindleSpeed state="Default">1000</SpindleSpeed>
+          <SpindleRange state="Default">0</SpindleRange>
+          <VelocityMode state="Default">Undefined</VelocityMode>
+          <primitive>
+            <prim>1</prim>
+            <prim>3</prim>
+            <prim>5</prim>
+            <prim>7</prim>
+            <prim>9</prim>
+            <prim>11</prim>
+            <prim>13</prim>
+            <prim>15</prim>
+            <prim>16</prim>
+            <prim>18</prim>
+            <prim>20</prim>
+            <prim>21</prim>
+            <prim>22</prim>
+            <prim>24</prim>
+            <prim>26</prim>
+            <prim>27</prim>
+            <prim>28</prim>
+            <prim>30</prim>
+            <prim>32</prim>
+            <prim>34</prim>
+            <prim>36</prim>
+            <prim>38</prim>
+            <prim>40</prim>
+            <prim>42</prim>
+            <prim>44</prim>
+            <prim>46</prim>
+            <prim>48</prim>
+            <prim>50</prim>
+            <prim>51</prim>
+            <prim>52</prim>
+            <prim>54</prim>
+            <prim>56</prim>
+            <prim>58</prim>
+            <prim>60</prim>
+            <prim>61</prim>
+            <prim>62</prim>
+            <prim>64</prim>
+            <prim>66</prim>
+            <prim>68</prim>
+            <prim>70</prim>
+            <prim>72</prim>
+            <prim>73</prim>
+            <prim>74</prim>
+            <prim>75</prim>
+            <prim>76</prim>
+            <prim>77</prim>
+            <prim>78</prim>
+            <prim>79</prim>
+            <prim>80</prim>
+            <prim>81</prim>
+            <prim>82</prim>
+            <prim>83</prim>
+            <prim>84</prim>
+            <prim>85</prim>
+            <prim>87</prim>
+            <prim>88</prim>
+            <prim>89</prim>
+            <prim>90</prim>
+            <prim>94</prim>
+          </primitive>
+          <TargetDepth state="Default">0.485</TargetDepth>
+          <DepthIncrement state="Default">0.015</DepthIncrement>
+          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
+          <CutOrdering state="Default">DepthFirst</CutOrdering>
+        </engrave>
+      </machineops>
+      <OutFile>{$cbfile.name}-Mermaid.nc</OutFile>
+      <Stock>
+        <PMin>0,0,0.25</PMin>
+        <PMax>12,12,0.5</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolProfile>Unspecified</ToolProfile>
+      <Nesting>
+        <BasePoint />
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+  </parts>
   <ActiveLayer>Layer_1</ActiveLayer>
+  <ActivePart>Mermaid</ActivePart>
 </CADFile>
