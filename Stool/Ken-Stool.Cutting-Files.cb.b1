@@ -1228,7 +1228,7 @@
             <prim>109</prim>
           </primitive>
           <TargetDepth state="Value">-6</TargetDepth>
-          <DepthIncrement state="Value">2</DepthIncrement>
+          <DepthIncrement state="Value">3</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
@@ -1393,7 +1393,7 @@
             <prim>127</prim>
           </primitive>
           <TargetDepth state="Value">-14</TargetDepth>
-          <DepthIncrement state="Value">2</DepthIncrement>
+          <DepthIncrement state="Value">3</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
