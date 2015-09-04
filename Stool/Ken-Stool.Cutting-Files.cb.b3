@@ -1266,7 +1266,7 @@
           <primitive>
             <prim>411</prim>
           </primitive>
-          <TargetDepth state="Auto" />
+          <TargetDepth state="Auto">-19.05</TargetDepth>
           <DepthIncrement state="Value">2</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
@@ -1431,7 +1431,7 @@
           <primitive>
             <prim>130</prim>
           </primitive>
-          <TargetDepth state="Auto" />
+          <TargetDepth state="Auto">-19.05</TargetDepth>
           <DepthIncrement state="Value">2</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
@@ -1572,7 +1572,7 @@
             <prim>414</prim>
             <prim>415</prim>
           </primitive>
-          <TargetDepth state="Auto" />
+          <TargetDepth state="Auto">-19.05</TargetDepth>
           <DepthIncrement state="Value">5</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
