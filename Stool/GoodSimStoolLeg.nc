@@ -2,12 +2,12 @@
   <!-- Note, all values are in mm regardless of 'units' option. -->
   <!-- NC Files -->
   <nc-files>
-    StoolwTabsv2.nc
+    StoolwTabs-Leg2-Start.nc
   </nc-files>
 
   <!-- Renderer -->
-  <resolution v='0.90019'/>
-  <resolution-mode v='HIGH'/>
+  <resolution v='0.714482'/>
+  <resolution-mode v='VERY_HIGH'/>
 
   <!-- Workpiece -->
   <automatic-workpiece v='false'/>
