@@ -1320,7 +1320,7 @@
             <prim>127</prim>
           </primitive>
           <TargetDepth state="Value">-14</TargetDepth>
-          <DepthIncrement state="Value">3</DepthIncrement>
+          <DepthIncrement state="Value">5</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
@@ -1391,7 +1391,7 @@
             <HoldingTab>
               <NormalInverted>false</NormalInverted>
               <ParentEntityID>130</ParentEntityID>
-              <ParametricPoint>0.16666666666666666</ParametricPoint>
+              <ParametricPoint>0.16666666666666671</ParametricPoint>
               <Normal>
                 <X>0.50000000000000033</X>
                 <Y>0.86602540378443849</Y>
