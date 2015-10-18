@@ -1,0 +1,25 @@
+<camotics>
+  <!-- Note, all values are in mm regardless of 'units' option. -->
+  <!-- NC Files -->
+  <nc-files>
+    BedCleaning.Part1 [Pocket1].nc
+  </nc-files>
+
+  <!-- Renderer -->
+  <resolution v='1.694232'/>
+  <resolution-mode v='LOW'/>
+
+  <!-- Workpiece -->
+  <automatic-workpiece v='true'/>
+  <workpiece-margin v='6'/>
+  <workpiece-max v='(488.02,350.22,0)'/>
+  <workpiece-min v='(-28.02,-20.22,-2.544)'/>
+
+  <tool_table>
+    <tool length='59' number='2' radius='19.05' shape='CYLINDRICAL' units='MM'>
+      Bed Cleaning
+    </tool>
+    <tool length='10' number='3' radius='1' shape='CYLINDRICAL' units='MM'/>
+    <tool length='10' number='6' radius='1' shape='CYLINDRICAL' units='MM'/>
+  </tool_table>
+</camotics>
