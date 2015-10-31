@@ -24,20 +24,19 @@
       <Color>255,165,0</Color>
     </Stock>
     <ToolLibrary>Default-in</ToolLibrary>
-    <ToolNumber>3</ToolNumber>
+    <ToolNumber>7</ToolNumber>
     <ToolProfile>Unspecified</ToolProfile>
   </MachiningOptions>
   <parts>
     <part Name="Part1">
       <machineops>
         <pocket>
-          <Style>cutout</Style>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Default">1.25</ToolDiameter>
-          <ToolNumber state="Value">6</ToolNumber>
-          <ToolProfile state="Value">EndMill</ToolProfile>
+          <ToolDiameter state="Value">19.05</ToolDiameter>
+          <ToolNumber state="Default">7</ToolNumber>
+          <ToolProfile state="Default">Unspecified</ToolProfile>
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Default">800</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
@@ -55,20 +54,15 @@
           <primitive>
             <prim>1</prim>
           </primitive>
-          <TargetDepth state="Value">-0.4</TargetDepth>
-          <DepthIncrement state="Value">0.4</DepthIncrement>
+          <TargetDepth state="Value">38.1</TargetDepth>
+          <DepthIncrement state="Value">38.1</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
-          <CutOrdering state="Value">LevelFirst</CutOrdering>
+          <CutOrdering state="Default">DepthFirst</CutOrdering>
           <StepOver state="Default">0.4</StepOver>
           <StepoverFeedrate state="Default">Plunge Feedrate</StepoverFeedrate>
           <MillingDirection state="Default">Conventional</MillingDirection>
           <CollisionDetection state="Default">True</CollisionDetection>
-          <LeadInMove state="Default">
-            <LeadInType>Spiral</LeadInType>
-            <SpiralAngle>0</SpiralAngle>
-            <TangentRadius>0</TangentRadius>
-            <LeadInFeedrate>0</LeadInFeedrate>
-          </LeadInMove>
+          <LeadInMove state="Default" />
           <LeadOutMove state="Default" />
           <RegionFillStyle state="Default">InsideOutsideOffsets</RegionFillStyle>
           <FinishStepover state="Default">0</FinishStepover>
